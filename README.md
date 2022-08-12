@@ -1,3 +1,4 @@
+when you clone the project from git please first run yarn command then,
 First open 2 seprate Terminal:
 In one, the command of `bash yarn dev` for run the next app
 In another, the command `bash npx json-server --watch data/db.json --port 5050` for run the json server
